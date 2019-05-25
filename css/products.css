@@ -239,7 +239,14 @@
   #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    text-align: center;
+
   }
+
+  #portfolio .portfolio-item img{
+    max-height: 250px;
+  }
+
   
   #portfolio .portfolio-item .portfolio-link {
     position: relative;
@@ -700,3 +707,8 @@
     background-color: #fed136;
   }
   
+  #battery{
+    width: 30%;
+    height: 30%;
+    margin: 0;
+  }

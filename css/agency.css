@@ -225,6 +225,16 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
+#carInside{
+  text-align: center;
+  color: white;
+}
+
+#carInside img{
+  width: 100%;
+
+}
+
 .service-heading {
   margin: 15px 0;
   text-transform: none;
